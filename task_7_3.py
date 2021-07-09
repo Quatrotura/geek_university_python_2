@@ -24,6 +24,8 @@ dest_dir_name = 'templates'
 dir_path = '/Users/SYakubov/desktop/programming/geekbrains/python/homeworks/Sergey_Yakubov_dz_7/my_project_2'
 dest_dir_path = '/Users/SYakubov/desktop/programming/geekbrains/python/homeworks/Sergey_Yakubov_dz_7/my_project_2/' + dest_dir_name
 
+# первая версия кода без try-exception
+
 # def get_templates(dir_path):
 
 #    for item in os.listdir(dir_path):
