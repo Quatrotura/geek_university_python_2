@@ -1,0 +1,21 @@
+my_project_2:
+  authapp:
+  - __init.py__
+  - models.py
+  - views.py
+  - templates:
+      authapp:
+      - base.html
+      - index.html
+  mainapp:
+  - __init.py__
+  - models.py
+  - views.py
+  - templates:
+      mainapp:
+      - base.html
+      - index.html
+  settings:
+  - __init.py__
+  - dev.py
+  - prod.py
