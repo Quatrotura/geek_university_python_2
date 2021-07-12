@@ -16,7 +16,6 @@
 # calc_cube(5: <class 'int'>)
 
 
-# решение для позиционных аргументов
 from functools import wraps
 
 def get_type(func):
